@@ -1,0 +1,25 @@
+/* Main body goes in container */
+
+body {
+	font-family: "Georgia";
+	font-size: 18px;
+}
+
+.background {
+	background-color: #ebebeb;
+}
+
+/* Navbar components */
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: #ebebeb;
+	font-size: 30px;
+	padding: 35px 40px 35px;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+	
+}
