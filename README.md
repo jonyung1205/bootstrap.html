@@ -2,5 +2,5 @@
 
 Second assignment for creating a layout using Bootstrap.
 
-Tools/Languages used: HTML, CSS
+Tools/Languages used: HTML, CSS, Bootstrap
 
